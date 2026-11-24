@@ -1,4 +1,4 @@
-# XML Sitemap Validator | TAVARDT Australia
+# XML Sitemap Validator
 
 [![XML Sitemap Validator](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/au/xml-sitemap-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ To assess XML sitemaps and ensure crawl efficiency across Australian properties:
 ## Australian Digital Infrastructure Advisory
 
 For complex search architecture and technical alignment with Australian Web Standards and Sitemaps.org, consult the advisory practice at **TAVARDT Australia**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
