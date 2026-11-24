@@ -5,7 +5,7 @@
 
 Automated XML sitemap verification tool for Australian digital properties, ensuring error-free indexing by search engines.
 
-Engineered and maintained by the search architecture and web indexing division at **TAVARDT Australia**.
+Engineered and maintained by the search architecture and web indexing division at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python sitemap_validator.py https://example.com.au/sitemap.xml -json
 To assess XML sitemaps and ensure crawl efficiency across Australian properties:
 
 * **Official XML Sitemap Validator**
-* **TAVARDT Australia Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Australian Digital Infrastructure Advisory
 
-For complex search architecture and technical alignment with Australian Web Standards and Sitemaps.org, consult the advisory practice at **TAVARDT Australia**.
+For complex search architecture and technical alignment with Australian Web Standards and Sitemaps.org, consult the advisory practice at **TAVARDT**.
 
 ***
 
